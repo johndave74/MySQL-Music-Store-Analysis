@@ -3,6 +3,8 @@ This project analyzes a Music Store Database using MySQL. It answers key busines
 
 # 🎵 MySQL Music Store Analysis
 
+![image](https://github.com/user-attachments/assets/a329d8e5-47ef-4fd2-a6f9-ea21ad2e46e4)
+
 ## 📌 Project Overview
 This project analyzes a **Music Store Database** using **MySQL**. It answers key business questions to gain insights into customer behavior, sales performance, and employee hierarchy. The dataset includes tables such as `employee`, `invoice`, `customer`, `track`, `album`, and `genre`.
 
