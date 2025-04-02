@@ -101,12 +101,12 @@ This project analyzes a **Music Store Database** using **MySQL**. It answers key
 
 ---
 ## 📌 Recommendations
-✅ **Increase Marketing Efforts in High-Revenue Cities**: Focus on promotional events and ads in the top-spending cities like **New York, London, and Toronto**.
-✅ **Loyalty Programs for Top Customers**: Offer discounts or exclusive content to high-spending customers to retain them.
-✅ **Expand High-Selling Genres**: Invest more in popular genres like **Rock, Pop, and Jazz**.
-✅ **Optimize Pricing Strategy**: Use average invoice insights to adjust pricing for better revenue.
-✅ **Incentivize High-Performing Employees**: Recognize top sales performers to boost motivation and efficiency.
-✅ **Encourage Full Album Purchases**: Bundle albums with discounts or exclusive tracks to increase full album sales.
+- Increase Marketing Efforts in High-Revenue Cities: Focus on promotional events and ads in the top-spending cities like **New York, London, and Toronto.
+- Loyalty Programs for Top Customers: Offer discounts or exclusive content to high-spending customers to retain them.
+- Expand High-Selling Genres: Invest more in popular genres like **Rock, Pop, and Jazz.
+- Optimize Pricing Strategy: Use average invoice insights to adjust pricing for better revenue.
+- Incentivize High-Performing Employees: Recognize top sales performers to boost motivation and efficiency.
+- Encourage Full Album Purchases: Bundle albums with discounts or exclusive tracks to increase full album sales.
 
 ---
 ## 🛠️ How to Use
