@@ -3,7 +3,7 @@ This project analyzes a Music Store Database using MySQL. It answers key busines
 
 # 🎵 MySQL Music Store Analysis
 
-![image](https://github.com/user-attachments/assets/a329d8e5-47ef-4fd2-a6f9-ea21ad2e46e4)   ![image](https://github.com/user-attachments/assets/92df6625-a6de-4bb3-93e0-9383669030b1)
+![image](https://github.com/user-attachments/assets/92df6625-a6de-4bb3-93e0-9383669030b1)
 
 
 ## 📌 Project Overview
